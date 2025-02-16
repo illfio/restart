@@ -1,0 +1,21 @@
+.landingContainer{
+    height: 95vh;
+}
+
+.landingContent{
+    display:flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.landingButtonDiv{
+    display:flex;
+    gap: .5em;
+}
+
+.landingButtonDiv button{
+    padding: .5em;
+}
